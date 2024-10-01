@@ -1,4 +1,4 @@
-# Uncovering breast cancer metabolic landscape through multi-modal machine learning and metabolic modelling
+# Uncovering the breast cancer metabolic landscape through multi-modal machine learning and metabolic modelling
 
 This repository contains the code and data to reproduce the results presented in the paper “Uncovering breast cancer metabolic landscape through multi-modal machine learning and metabolic modelling"
 
