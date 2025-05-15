@@ -2,7 +2,7 @@ function [reaction_expression, pos_genes_in_react_expr, ixs_geni_sorted_by_lengt
 
 genesets = fbamodel.grRules;
 
-%note the genesets are already written nicely and ordered by reaction, so there
+%note the genesets are already written nicely and ordered by reaction, so there 
 %is no need to assign each geneset to a reaction, so there is no need to
 %use the following code . We only need to convert "AND" into "and", "OR"
 %into "or" because of how associate_genes_reactions.m is written
