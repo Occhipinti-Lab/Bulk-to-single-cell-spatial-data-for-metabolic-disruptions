@@ -7,7 +7,7 @@ for g = 1:numel(gene_ids)
     
     ref_gene_name = gene_ids_Gtex(1, g);
     des_idx = find(strcmp(gene_ids, ref_gene_name));
-%%   normalized_gene_exp_one_col = gene_exp(:, des_idx)./mean_gene_Gtex(1, g);
+%%  normalized_gene_exp_one_col = gene_exp(:, des_idx)./mean_gene_Gtex(1, g);
     
     if mean_gene_Gtex(1, g) == 0
         gene_exp_one = gene_exp(:, des_idx);
