@@ -1,4 +1,4 @@
-# Uncovering the breast cancer metabolic landscape through multi-modal machine learning and metabolic modelling
+# From bulk to single-cell and spatial data: An AI  framework to characterise breast cancer metabolic disruptions across modalities
 
 This repository contains the code and data to reproduce the results presented in the paper “Uncovering breast cancer metabolic landscape through multi-modal machine learning and metabolic modelling"
 
