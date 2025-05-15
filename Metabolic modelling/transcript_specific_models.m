@@ -1,5 +1,5 @@
 %%% Code for setting the model's bounds according to the provided transcriptomic data
-% Boundary provided by Noushin
+%  Boundary provided by Noushin
 % gamma = [2, 1.5, 1, 0.5];                            
 % threshold = [0,10,25,50];                        
 % lb = [-50,-30,-10,-5];   
