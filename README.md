@@ -2,6 +2,8 @@
 
 This repository contains the code and data to reproduce the results presented in the paper “Uncovering breast cancer metabolic landscape through multi-modal machine learning and metabolic modelling"
 
+Link to paper: https://www.sciencedirect.com/science/article/pii/S0010482525015483
+
 The framework integrates machine learning with patient-specific metabolic modelling to predict risk for breast cancer patients. The repository contains 3 main folders:
 <li> Data preprocessing: providing the preprocessing code, including feature selection techniques for transcriptomic and fluxomic data; </li>
 <li> Metabolic modelling: providing the Matlab code for GSMM to generate patient-specific flux rates (fluxomic data);</li>
